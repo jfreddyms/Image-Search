@@ -1,0 +1,28 @@
+body {
+  background: 	#708090;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #778899, #708090);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #778899, #708090); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.bder-view {
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+.bder-image {
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(44,82,130,1);
+  -moz-box-shadow: 0px 0px 5px 1px rgba(44,82,130,1);
+  box-shadow: 0px 0px 5px 1px rgba(44,82,130,1);
+}
+
+.bder-search {
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,1);
+  box-shadow: 0px 0px 5px 1px rgba(0,0,0,1);
+}
+
+.bder-text {
+  background-color:rgba(44 82 130 / .1);
+}
